@@ -54,36 +54,40 @@ Demostrar el uso de:
 ---
 
 ### 👨‍🏫 Profesores contratados y asignados
-_Subir aquí una captura mostrando profesores en múltiples departamentos_
 
-![Profesores](ruta/a/captura2.png)
+![image](https://github.com/user-attachments/assets/ef52ff97-12b7-490b-8321-723a849508d1)
+
 
 ---
 
 ### 📚 Cursos creados e inscritos
-_Subir aquí una captura con cursos y asignación de estudiantes_
 
-![Cursos](ruta/a/captura3.png)
+![image](https://github.com/user-attachments/assets/2cccddec-42d2-47f4-b9ca-99da2778693c)
+
 
 ---
 
 ### 📄 Generación de Reportes
 _Subir aquí una captura del reporte en consola_
 
-![Reporte](ruta/a/captura4.png)
+![image](https://github.com/user-attachments/assets/f6226461-12ae-409a-ac70-a0155e63fc0d)
+
 
 ---
 
 ## 🧑‍💻 Autor
 
-**[Tu Nombre Aquí]**  
+**[Samuel Eduardo Garcia Corredor]**  
 Estudiante de Programación Orientada a Objetos  
-[Nombre de la Universidad]
+[Universidad Nacional de Colombia]
 
 ---
 
-## ✔️ Estado del Taller
+##  Salida:
 
-✅ Entregado y probado  
-✅ Cumple con todos los criterios de evaluación  
-✅ Código limpio y funcional  
+![image](https://github.com/user-attachments/assets/cb0d6099-1a99-498b-ae79-4ac22983bd3f)
+
+---
+
+
+
