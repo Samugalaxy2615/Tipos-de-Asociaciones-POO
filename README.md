@@ -47,7 +47,8 @@ Demostrar el uso de:
 ### 🏫 Universidad y Departamentos creados
 _Subir aquí una captura mostrando la creación de universidad y departamentos_
 
-![Universidad](ruta/a/captura1.png)
+![image](https://github.com/user-attachments/assets/33acbc03-3d8d-4e25-8642-d35d06c90fea)
+
 
 ---
 
