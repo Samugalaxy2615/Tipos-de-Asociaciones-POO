@@ -45,7 +45,8 @@ Demostrar el uso de:
 ## 📸 Evidencias del Funcionamiento
 
 ### 🏫 Universidad y Departamentos creados
-_Subir aquí una captura mostrando la creación de universidad y departamentos_
+
+![image](https://github.com/user-attachments/assets/364872eb-1969-45fd-ab31-ebb3a32b53c3)
 
 ![image](https://github.com/user-attachments/assets/33acbc03-3d8d-4e25-8642-d35d06c90fea)
 
