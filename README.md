@@ -75,6 +75,12 @@ _Subir aquí una captura del reporte en consola_
 
 ---
 
+##  Salida:
+
+![image](https://github.com/user-attachments/assets/cb0d6099-1a99-498b-ae79-4ac22983bd3f)
+
+---
+
 ## 🧑‍💻 Autor
 
 **[Samuel Eduardo Garcia Corredor]**  
@@ -82,12 +88,4 @@ Estudiante de Programación Orientada a Objetos
 [Universidad Nacional de Colombia]
 
 ---
-
-##  Salida:
-
-![image](https://github.com/user-attachments/assets/cb0d6099-1a99-498b-ae79-4ac22983bd3f)
-
----
-
-
 
